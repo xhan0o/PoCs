@@ -1,0 +1,3 @@
+CURL.h: libcurl4-openssl-dev
+json.h: libjsoncpp-dev
+sqlite3.h: sqlite3 libsqlite3-dev 
