@@ -1,0 +1,14 @@
+{
+"reddit" :[
+  {
+    "client_id" :"client_id",
+    "client_secret" : "client_secret",
+    "password" : "password",
+    "user_agent" : "user_agent",
+    "username" : "u/user"
+    }
+  ],
+  "telegram" :[
+    { "token" : "bot_token" }
+  ]
+}
